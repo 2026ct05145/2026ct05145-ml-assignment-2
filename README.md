@@ -92,7 +92,11 @@ project-folder/
 ├── test_data.csv
 ├── model/
 │   ├── ML_Assignment_2.ipynb
-│   └── (saved .joblib model files)
+│   └── decision_tree.joblib
+│   └── knn.joblib
+│   └── logistic_regression.joblib
+│   └── naive_bayes.joblib
+│   └── random_forest.joblib
 └── results/
     ├── metrics.csv
     ├── class_distribution.png
